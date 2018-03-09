@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- This file is part of the carrier_send_shipments_mondialrelay module for Tryton.
+The COPYRIGHT file at the top level of this repository contains the full
+copyright notices and license terms. -->
+<data>
+    <xpath expr="/form/notebook/page[@id='carrier-delivery']" position="inside">
+        <label name="mondialrelay_content"/>
+        <field name="mondialrelay_content"/>
+    </xpath>
+</data>

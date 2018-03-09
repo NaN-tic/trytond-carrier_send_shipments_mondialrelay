@@ -1,0 +1,74 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "error:stock.shipment.out:"
+msgid "Add country in shipment \"%(name)s\" delivery address"
+msgstr "Añade un país a la dirección de envío del albarán \"%(name)s\""
+
+msgctxt "error:stock.shipment.out:"
+msgid "Delivery address \"%(name)s\" has not a country or MondialRelay location."
+msgstr ""
+"La dirección de envío \"%(name)s\" no dispone de país ni de ubicación "
+"MondialRelay."
+
+msgctxt "error:stock.shipment.out:"
+msgid "Not available \"%(name)s\" label from MondialRelay"
+msgstr "No se dispone la etiqueta \"%(name)s\" de MondialRelay."
+
+msgctxt "error:stock.shipment.out:"
+msgid "Not send shipment %(name)s. %(error)s"
+msgstr "No se ha enviado el albarán %(name)s. %(error)s"
+
+msgctxt "error:stock.shipment.out:"
+msgid "Select a service or default service in MondialRelay API"
+msgstr ""
+"Seleccione un servicio o un servicio por defecto en la API de MondialRelay."
+
+msgctxt "field:carrier.api,mondialrelay_content:"
+msgid "MondialRelay Content"
+msgstr "Contenido Mondial Relay"
+
+msgctxt "field:carrier.api,mondialrelay_culture:"
+msgid "Mondial Relay Culture"
+msgstr "Idioma Mondial Relay"
+
+msgctxt "field:carrier.api,mondialrelay_customerid:"
+msgid "Mondial Relay Customer ID"
+msgstr "Client ID Mondial Relay"
+
+msgctxt "field:carrier.api,mondialrelay_label:"
+msgid "Mondial Relay Label Format"
+msgstr "Formato etiqueta Mondial Relay"
+
+msgctxt "field:carrier.api,mondialrelay_pdf_format:"
+msgid "Mondial Relay PDF"
+msgstr "PDF Mondial Relay"
+
+msgctxt "field:carrier.api,mondialrelay_version:"
+msgid "Mondial Relay Version"
+msgstr "Versión Mondial Relay"
+
+msgctxt "field:party.address,mondialrelay:"
+msgid "MondialRelay"
+msgstr "MondialRelay"
+
+msgctxt "field:stock.shipment.out,mondialrelay_content:"
+msgid "MondialRelay Content"
+msgstr "Contenido Mondial Relay"
+
+msgctxt "help:carrier.api,mondialrelay_content:"
+msgid "Description package content (livres, ...)"
+msgstr "Decripción paquete Mondial Relay (livres...)"
+
+msgctxt "help:party.address,mondialrelay:"
+msgid "Office MondialRelay code to delivery shipment"
+msgstr "Código oficina MondialRelay para la entrega"
+
+msgctxt "help:stock.shipment.out,mondialrelay_content:"
+msgid "Description package content (livres, ...)"
+msgstr "Decripción paquete Mondial Relay (livres...)"
+
+msgctxt "view:carrier.api:"
+msgid "MondialRelay"
+msgstr "MondialRelay"

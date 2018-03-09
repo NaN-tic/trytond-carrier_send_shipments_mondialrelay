@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!-- This file is part of the carrier_send_shipments_mondialrelay module for Tryton.
+The COPYRIGHT file at the top level of this repository contains the full
+copyright notices and license terms. -->
+<data>
+    <xpath expr="/form/notebook/page[@id='api']" position="after">
+        <page string="MondialRelay" id="mondialrelay">
+            <label name="mondialrelay_version"/>
+            <field name="mondialrelay_version"/>
+            <label name="mondialrelay_customerid"/>
+            <field name="mondialrelay_customerid"/>
+            <label name="mondialrelay_culture"/>
+            <field name="mondialrelay_culture"/>
+            <label name="mondialrelay_label"/>
+            <field name="mondialrelay_label"/>
+            <label name="mondialrelay_pdf_format"/>
+            <field name="mondialrelay_pdf_format"/>
+            <label name="mondialrelay_content"/>
+            <field name="mondialrelay_content"/>
+        </page>
+    </xpath>
+</data>
