@@ -9,7 +9,7 @@ msgstr "Añade un país a la dirección de envío del albarán \"%(name)s\""
 msgctxt "error:stock.shipment.out:"
 msgid "Delivery address \"%(name)s\" has not a country or MondialRelay location."
 msgstr ""
-"La dirección de envío \"%(name)s\" no dispone de país ni de ubicación "
+"La dirección de envío \"%(name)s\" no dispone de país o ubicación "
 "MondialRelay."
 
 msgctxt "error:stock.shipment.out:"

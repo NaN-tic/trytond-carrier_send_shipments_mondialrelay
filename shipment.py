@@ -180,8 +180,9 @@ class ShipmentOut:
 
                 if (not shipment.delivery_address.country
                         or not shipment.delivery_address.mondialrelay):
-                    message = self.raise_user_error('mondialrelay_address', {},
-                        raise_exception=False)
+                    message = self.raise_user_error('mondialrelay_address', {
+                        'name': shipment.delivery_address.rec_name,
+                        }, raise_exception=False)
                     errors.append(message)
                     continue
 

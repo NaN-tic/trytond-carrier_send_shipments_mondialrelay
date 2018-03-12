@@ -9,7 +9,7 @@ msgstr "Afegeix un país en l'adreça d'enviament de l'albarà \"%(name)s\""
 msgctxt "error:stock.shipment.out:"
 msgid "Delivery address \"%(name)s\" has not a country or MondialRelay location."
 msgstr ""
-"L'adreça d'enviament \"%(name)s\" no disposa de pais ni de ubicació "
+"L'adreça d'enviament \"%(name)s\" no disposa de pais o ubicació "
 "MondialRelay."
 
 msgctxt "error:stock.shipment.out:"
